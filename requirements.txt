@@ -1,0 +1,6 @@
+
+scikit-plot==0.3.7
+# seaborn==0.12.2
+# scikit_plot-0.3.7-py3-none-any.whl
+# matplotlib==3.5.3            # 3.7.1
+# ipywidgets==7.7.1
