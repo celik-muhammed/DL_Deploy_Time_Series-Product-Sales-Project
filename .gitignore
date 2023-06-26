@@ -1,20 +1,25 @@
-data/
-*_v2.ipynb
-.ipynb_checkpoints
-.bin
-*.db
-
+**/data/
+*.ipynb_checkpoints
+*_v0.ipynb
 *.parquet
 *.html
 *.csv
-*.pkl
-*.h5
 
+**/models/
+*.pkl
+*.bin
+*.h5
+*.np
+
+**/mlflow/
+**/mlruns/
+**/artifacts/
+*.db
+
+**/venv/
 venv
 .venv
 .idea
-**/artifacts/
-**/models/
 
 __pycache__/
 **.env
